@@ -1,0 +1,12 @@
+.env
+*venv/
+target/
+dbt_modules/
+dbt_packages/
+dbt-env/
+logs/
+*.swp
+*.swo
+.python-version
+.DS_Store
+.vscode/*
